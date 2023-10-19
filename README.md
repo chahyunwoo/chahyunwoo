@@ -26,8 +26,8 @@
 <span><img src="https://img.shields.io/badge/Recoil-3474DE?style=flat&logo=recoil&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/></span>
-- Backend : <span><img src="https://img.shields.io/badge/node-js-339933?style=flat&logo=nodetojs&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/mongo-db-47A248?style=flat&logo=mongotodb&logoColor=white"/></span>
+- Backend : <span><img src="https://img.shields.io/badge/node-js-339933?style=flat&logo=nodedotjs&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/mongo-db-47A248?style=flat&logo=mongodb&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/supabase-3FCF8E?style=flat&logo=supabase&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/mySQL-4479A1?style=flat&logo=mySQL&logoColor=white"/></span>
