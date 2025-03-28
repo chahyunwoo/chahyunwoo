@@ -40,4 +40,77 @@
 <span><img src="https://img.shields.io/badge/Figma-f24e1e?style=flat&logo=figma&logoColor=white"/></span><br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 246.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 66 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 19 Public Repositories 
+ > 
+> 🔑 8 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                37 commits          █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+🌆 Daytime                45 commits          ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+🌃 Evening                94 commits          ████████████░░░░░░░░░░░░░   47.72 % 
+🌙 Night                  21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Tuesday                  49 commits          ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
+Wednesday                21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+Thursday                 39 commits          █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+Friday                   43 commits          █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
+Saturday                 7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Sunday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               21 repos            ███████████████████░░░░░░   77.78 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+MDX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/chahyunwoo/chahyunwoo/main/assets/bar_graph.png)
+
+
+ Last Updated on 28/03/2025 02:18:28 UTC
 <!--END_SECTION:waka-->
