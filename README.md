@@ -37,8 +37,3 @@
 <span><img src="https://img.shields.io/badge/Zeplin-ffbe22?style=flat"/></span>
 <span><img src="https://img.shields.io/badge/Figma-f24e1e?style=flat&logo=figma&logoColor=white"/></span><br/>
 
-## Portfolio WebSite - <a href='https://chahyunwoobi.com'>CLICK HERE !</a>
-<a href="https://chahyunwoobi.com">
-    <img src="https://github.com/chahyunwoo/chahyunwoo/assets/89173252/85f69d8d-dbde-4daf-8339-47599f6e3352" alt="Portfolio Image">
-</a>
-
