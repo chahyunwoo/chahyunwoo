@@ -40,6 +40,7 @@
 <span><img src="https://img.shields.io/badge/Figma-f24e1e?style=flat&logo=figma&logoColor=white"/></span><br/>
 
 <div align="center">
+ 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -72,4 +73,5 @@
 
  Last Updated on 28/03/2025 08:23:13 UTC
 <!--END_SECTION:waka-->
+
 </div>
