@@ -39,3 +39,5 @@
 <span><img src="https://img.shields.io/badge/Zeplin-ffbe22?style=flat"/></span>
 <span><img src="https://img.shields.io/badge/Figma-f24e1e?style=flat&logo=figma&logoColor=white"/></span><br/>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
