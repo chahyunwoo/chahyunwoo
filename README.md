@@ -14,7 +14,8 @@
 [![Blog badge](https://img.shields.io/badge/Dev_Blog-blueviolet?style=flat&logo=github&logoColor=white)](https://chahyunwoo.dev/)
 
 ## 🔨 Stacks
-- Frontend : <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
+<div align="center">
+- Frontend<br/><br/><span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JavaScript-dbab09?style=flat&logo=javascript&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/></span>
@@ -27,18 +28,20 @@
 <span><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Recoil-3474DE?style=flat&logo=recoil&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/></span>
-- Backend : <span><img src="https://img.shields.io/badge/node-js-339933?style=flat&logo=nodedotjs&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/></span><br/><br/>
+- Backend<br/><br/><span><img src="https://img.shields.io/badge/node-js-339933?style=flat&logo=nodedotjs&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/mongo-db-47A248?style=flat&logo=mongodb&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/supabase-3FCF8E?style=flat&logo=supabase&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/mySQL-4479A1?style=flat&logo=mySQL&logoColor=white"/></span>
-- Mobile App : <span><img src="https://img.shields.io/badge/React Native-61dafb?style=flat&logo=react&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></span><br/>
-- Communication : <span><img src="https://img.shields.io/badge/Jira-0052cc?style=flat&logo=jira&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/mySQL-4479A1?style=flat&logo=mySQL&logoColor=white"/></span><br/><br/>
+- Mobile App<br/><br/><span><img src="https://img.shields.io/badge/React Native-61dafb?style=flat&logo=react&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></span><br/><br/>
+- Communication<br/><br/><span><img src="https://img.shields.io/badge/Jira-0052cc?style=flat&logo=jira&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Zeplin-ffbe22?style=flat"/></span>
 <span><img src="https://img.shields.io/badge/Figma-f24e1e?style=flat&logo=figma&logoColor=white"/></span><br/>
-
+</div>
+<br/>
+<br/>
 <div align="center">
  
 <!--START_SECTION:waka-->
