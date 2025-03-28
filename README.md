@@ -12,7 +12,7 @@
 - chahyunwoobi@gmail.com
 
 [![Blog badge](https://img.shields.io/badge/Dev_Blog-blueviolet?style=flat&logo=github&logoColor=white)](https://chahyunwoo.dev/)
- <a href="mailto:chahyunwoobi@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
+ <a href="mailto:chahyunwoobi@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ## 🔨 Stacks
 <div align="center">
