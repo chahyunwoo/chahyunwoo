@@ -2,7 +2,6 @@
 
 # Welcome To My GitHub!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chahyunwoo&show_icons=true&line_height=24&theme=dracula&hide=stars)
 ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=chahyunwoo&layout=compact&theme=dracula)
 
 ## Introduce Chahyunwoo
