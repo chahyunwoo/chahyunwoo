@@ -24,9 +24,11 @@
 
 ## 👋 About Me
 
-**Cha Hyun Woo** | Full-Stack Engineer
+**Cha Hyun Woo** | Full-Stack Engineer | Frontend Tech Leader
 
-🎓 Soongsil University (~2017)
+**Education**
+- 🎓 Soongsil University (2017) - B.S. in Accounting & Minor in Computer Science
+- 🎓 Bank of Credit (학점은행) (2025) - B.S. in Computer Science
 
 [![Blog](https://img.shields.io/badge/Dev_Blog-9c88ff?style=for-the-badge&logo=github&logoColor=white)](https://chahyunwoo.dev/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:chahyunwoobi@gmail.com)
