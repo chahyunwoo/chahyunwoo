@@ -12,7 +12,7 @@
 
 **Cha Hyun Woo** | Full-Stack Engineer
 
-🎓 Soongsil University | 💼 Freelancer @ RiskX | 📧 chahyunwoobi@gmail.com
+🎓 Soongsil University (~2017) | 📧 chahyunwoobi@gmail.com
 
 [![Blog](https://img.shields.io/badge/Dev_Blog-9c88ff?style=for-the-badge&logo=github&logoColor=white)](https://chahyunwoo.dev/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:chahyunwoobi@gmail.com)
@@ -122,14 +122,3 @@ Mac                      9 hrs 34 mins       ███████████�
 
 </div>
 
----
-
-<div align="center">
-
-## 🔗 Connect with me
-
-- 🌐 [Portfolio](https://chahyunwoo.dev/)
-- 💻 [GitHub](https://github.com/chahyunwoo)
-- 📧 [Email](mailto:chahyunwoobi@gmail.com)
-
-</div>
