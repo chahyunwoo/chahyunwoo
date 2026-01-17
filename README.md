@@ -1,66 +1,80 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=Hi,%20I'm%20Chahyunwoo&fontColor=9c88ff&fontSize=48&desc=Full-Stack%20Engineer&descAlignY=90&animation=fadeIn)
 
 # Welcome To My GitHub!
-[![GitHub Streak](https://streak-stats.demolab.com?user=chahyunwoo&theme=dracula)](https://git.io/streak-stats)
-![GitHub Stats](https://github-stats-card.vercel.app/api?username=chahyunwoo&theme=dracula&show_icons=true)
+
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chahyunwoo&layout=compact&theme=dracula&hide_border=true)
 
-## Introduce Chahyunwoo
-- Cha Hyun Woo
-- Full-Stack Engineer
-- Soongsil University
-- chahyunwoobi@gmail.com
+---
 
-[![Blog badge](https://img.shields.io/badge/Dev_Blog-blueviolet?style=flat&logo=github&logoColor=white)](https://chahyunwoo.dev/)
- <a href="mailto:chahyunwoobi@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+## 👋 About Me
 
-## 🔨 Stacks
-<div align="center">
- 
-### Frontend<br/>
-<span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/JavaScript-dbab09?style=flat&logo=javascript&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Sass-cc6699?style=flat&logo=sass&logoColor=white"/></span>
+**Cha Hyun Woo** | Full-Stack Engineer
+- 🎓 Soongsil University (~2017)
+- 📧 chahyunwoobi@gmail.com
 
-**Frameworks & Libraries**<br/><br/>
-<span><img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/></span>
+[![Blog](https://img.shields.io/badge/Dev_Blog-9c88ff?style=for-the-badge&logo=github&logoColor=white)](https://chahyunwoo.dev/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:chahyunwoobi@gmail.com)
 
-**State Management**<br/><br/>
-<span><img src="https://img.shields.io/badge/Redux-764abc?style=flat&logo=redux&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Zustand-3E36A3?style=flat"/></span>
-<span><img src="https://img.shields.io/badge/TanStack Query-FF4154?style=flat"/></span>
-<span><img src="https://img.shields.io/badge/Recoil-3474DE?style=flat&logo=recoil&logoColor=white"/></span>
+---
 
-### Backend<br/>
-**Runtimes & Frameworks**<br/><br/>
-<span><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></span>
 
-**Databases**<br/><br/>
-<span><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/></span>
+## 🛠️ Tech Stack
 
-**ORM & Tools**<br/><br/>
-<span><img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white"/></span>
+### Frontend
+<div>
+<img src="https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-dbab09?style=flat&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Sass-cc6699?style=flat&logo=sass&logoColor=white" />
+</div>
 
-### Mobile<br/>
-<span><img src="https://img.shields.io/badge/React Native-61dafb?style=flat&logo=react&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></span>
+**Frameworks & Libraries**
 
-### Tools & Collaboration<br/>
-<span><img src="https://img.shields.io/badge/Jira-0052cc?style=flat&logo=jira&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Figma-f24e1e?style=flat&logo=figma&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Zeplin-ffbe22?style=flat"/></span>
-<div align="center">
+<img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
+
+**State Management**
+
+<img src="https://img.shields.io/badge/Redux-764abc?style=flat&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Zustand-3E36A3?style=flat" />
+<img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat" />
+<img src="https://img.shields.io/badge/Recoil-3474DE?style=flat&logo=recoil&logoColor=white" />
+
+### Backend
+
+**Runtimes & Frameworks**
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+
+**Databases & ORM**
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
+
+**Backend as a Service**
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
+
+### Mobile
+
+<img src="https://img.shields.io/badge/React%20Native-61dafb?style=flat&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+
+### Tools & Collaboration
+
+<img src="https://img.shields.io/badge/Jira-0052cc?style=flat&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-f24e1e?style=flat&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Zeplin-ffbe22?style=flat&logo=zeplin&logoColor=black" />
+
+---
  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-473%20hrs%2018%20mins-blue?style=flat)
