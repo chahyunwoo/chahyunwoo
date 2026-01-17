@@ -26,7 +26,7 @@
 
 **Cha Hyun Woo** | Full-Stack Engineer | Frontend Tech Leader
 
-- 🎓 Soongsil University (~2017)
+🎓 Soongsil University (~2017)
 
 [![Blog](https://img.shields.io/badge/Dev_Blog-9c88ff?style=for-the-badge&logo=github&logoColor=white)](https://chahyunwoo.dev/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:chahyunwoobi@gmail.com)
