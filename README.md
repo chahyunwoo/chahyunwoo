@@ -2,9 +2,9 @@
 
 # Welcome To My GitHub!
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chahyunwoo&layout=compact&theme=dracula&hide_border=true)
-
 <div align="center">
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chahyunwoo&layout=compact&theme=dracula&hide_border=true)
 
 🚀 **Full-Stack Engineer** | React 19 Specialist | TanStack Enthusiast
 
