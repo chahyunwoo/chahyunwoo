@@ -4,6 +4,20 @@
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chahyunwoo&layout=compact&theme=dracula&hide_border=true)
 
+<div align="center">
+
+🚀 **Full-Stack Engineer** | React 19 Specialist | TanStack Enthusiast
+
+**Interested**: Modern React, State Management, Backend Expansion
+
+| 💻 Frontend | 🔧 Backend | 🛠️ Tools |
+|-----------|-----------|---------|
+| React 19 | Node.js | TanStack |
+| TypeScript | NestJS | Zustand |
+| Tailwind | PostgreSQL | Cursor |
+
+</div>
+
 ---
 
 <div align="center">
