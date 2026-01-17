@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=Hi,%20I'm%20Chahyunwoo&fontColor=9c88ff&fontSize=48&desc=Full-Stack%20Engineer&descAlignY=90&animation=fadeIn)
 
 # Welcome To My GitHub!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chahyunwoo&show_icons=true&theme=dracula&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=chahyunwoo&layout=compact&theme=dracula)
+[![GitHub Streak](https://streak-stats.demolab.com?user=chahyunwoo&theme=dracula)](https://git.io/streak-stats)
+![GitHub Stats](https://github-stats-card.vercel.app/api?username=chahyunwoo&theme=dracula&show_icons=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chahyunwoo&layout=compact&theme=dracula&hide_border=true)
 
 ## Introduce Chahyunwoo
 - Cha Hyun Woo
