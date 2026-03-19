@@ -5,15 +5,14 @@
 # Welcome To My GitHub!
 
 <a href="https://github.com/chahyunwoo">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chahyunwoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chahyunwoo&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chahyunwoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chahyunwoo&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/chahyunwoo">
-  <img height="170" src="https://streak-stats.demolab.com?user=chahyunwoo&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=chahyunwoo&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://raw.githubusercontent.com/chahyunwoo/chahyunwoo/output/github-snake-dark.svg" />
 </a>
-
-[![trophy](https://github-trophies.vercel.app/?username=chahyunwoo&theme=tokyonight&no-frame=true&no-bg=true&column=6&rank=-?)](https://github.com/lucthienphong1120/github-trophies)
 
 🚀 **Full-Stack Engineer** | React 19 Specialist | TanStack Enthusiast
 
