@@ -4,7 +4,13 @@
 
 # Welcome To My GitHub!
 
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=chahyunwoo&show_icons=true&theme=dracula&hide_border=true&count_private=true)
+
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chahyunwoo&layout=compact&theme=dracula&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=chahyunwoo&theme=dracula&hide_border=true&locale=ko)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=chahyunwoo&theme=dracula&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 🚀 **Full-Stack Engineer** | React 19 Specialist | TanStack Enthusiast
 
@@ -95,26 +101,19 @@
 ---
 
 <div align="center">
- 
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-590%20hrs%204%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-626.72%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
-**저는 아침형 인간이에요. 🐤** 
+**저는 아침형 인간이에요. 🐤**
 
 ```text
-🌞 아침                     199 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-🌆 낮　                     612 commits         █████████████░░░░░░░░░░░░   50.33 % 
-🌃 저녁                     325 commits         ███████░░░░░░░░░░░░░░░░░░   26.73 % 
-🌙 밤　                     80 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-```
-
-
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
-
-```text
-🕑︎ Timezone: Asia/Seoul
+🌞 아침                     199 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.37 %
+🌆 낮　                     612 commits         █████████████░░░░░░░░░░░░   50.33 %
+🌃 저녁                     325 commits         ███████░░░░░░░░░░░░░░░░░░   26.73 %
+🌙 밤　                     80 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
 ```
 
 
@@ -122,4 +121,3 @@
 <!--END_SECTION:waka-->
 
 </div>
-
