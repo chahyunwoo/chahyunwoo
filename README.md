@@ -5,14 +5,15 @@
 # Welcome To My GitHub!
 
 <a href="https://github.com/chahyunwoo">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chahyunwoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chahyunwoo&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chahyunwoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chahyunwoo&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/chahyunwoo">
-  <img height="180" src="https://streak-stats.demolab.com?user=chahyunwoo&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-trophies.vercel.app/?username=chahyunwoo&theme=tokyonight&no-frame=true&column=4&no-bg=true&rank=-C,-B,-?" />
+  <img height="170" src="https://streak-stats.demolab.com?user=chahyunwoo&theme=tokyonight&hide_border=true" />
 </a>
+
+[![trophy](https://github-trophies.vercel.app/?username=chahyunwoo&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/lucthienphong1120/github-trophies)
 
 🚀 **Full-Stack Engineer** | React 19 Specialist | TanStack Enthusiast
 
