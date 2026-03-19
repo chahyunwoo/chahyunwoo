@@ -4,13 +4,14 @@
 
 # Welcome To My GitHub!
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=chahyunwoo&show_icons=true&theme=dracula&hide_border=true&count_private=true)
+<a href="https://github.com/chahyunwoo">
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chahyunwoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chahyunwoo&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chahyunwoo&layout=compact&theme=dracula&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=chahyunwoo&theme=tokyonight&hide_border=true&locale=ko)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=chahyunwoo&theme=dracula&hide_border=true&locale=ko)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=chahyunwoo&theme=dracula&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=chahyunwoo&theme=tokyonight&no-frame=true&column=7)](https://github.com/lucthienphong1120/github-trophies)
 
 🚀 **Full-Stack Engineer** | React 19 Specialist | TanStack Enthusiast
 
