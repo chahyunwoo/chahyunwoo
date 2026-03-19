@@ -9,9 +9,10 @@
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chahyunwoo&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=chahyunwoo&theme=tokyonight&hide_border=true&locale=ko)](https://git.io/streak-stats)
-
-[![trophy](https://github-trophies.vercel.app/?username=chahyunwoo&theme=tokyonight&no-frame=true&column=7)](https://github.com/lucthienphong1120/github-trophies)
+<a href="https://github.com/chahyunwoo">
+  <img height="180" src="https://streak-stats.demolab.com?user=chahyunwoo&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-trophies.vercel.app/?username=chahyunwoo&theme=tokyonight&no-frame=true&column=4&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA" />
+</a>
 
 🚀 **Full-Stack Engineer** | React 19 Specialist | TanStack Enthusiast
 
