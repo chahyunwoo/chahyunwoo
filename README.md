@@ -4,15 +4,16 @@
 
 # Welcome To My GitHub!
 
-<a href="https://github.com/chahyunwoo">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chahyunwoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chahyunwoo&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/chahyunwoo">
-  <img width="49%" src="https://streak-stats.demolab.com?user=chahyunwoo&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://raw.githubusercontent.com/chahyunwoo/chahyunwoo/output/github-snake-dark.svg" />
-</a>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chahyunwoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /></td>
+    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chahyunwoo&layout=compact&theme=tokyonight&hide_border=true" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://streak-stats.demolab.com?user=chahyunwoo&theme=tokyonight&hide_border=true" /></td>
+    <td><img src="https://raw.githubusercontent.com/chahyunwoo/chahyunwoo/output/github-snake-dark.svg" /></td>
+  </tr>
+</table>
 
 🚀 **Full-Stack Engineer** | React 19 Specialist | TanStack Enthusiast
 
@@ -74,6 +75,8 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
 
 ### Databases & ORM
 
@@ -92,11 +95,21 @@
 <img src="https://img.shields.io/badge/React%20Native-61dafb?style=flat&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
 
+### DevOps & Infra
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/SSH-000000?style=flat&logo=gnometerminal&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailscale-242424?style=flat&logo=tailscale&logoColor=white" />
+
 ### Tools & Collaboration
 
 <img src="https://img.shields.io/badge/Jira-0052cc?style=flat&logo=jira&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-f24e1e?style=flat&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Zeplin-ffbe22?style=flat&logo=zeplin&logoColor=black" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white" />
 
 </div>
 
