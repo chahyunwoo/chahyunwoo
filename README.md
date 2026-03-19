@@ -4,26 +4,20 @@
 
 # Welcome To My GitHub!
 
-<table>
-  <tr>
-    <td width="50%"><img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chahyunwoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /></td>
-    <td width="50%"><img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chahyunwoo&layout=compact&theme=tokyonight&hide_border=true" /></td>
-  </tr>
-  <tr>
-    <td width="50%"><img width="100%" src="https://streak-stats.demolab.com?user=chahyunwoo&theme=tokyonight&hide_border=true" /></td>
-    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/chahyunwoo/chahyunwoo/output/github-snake-dark.svg" /></td>
-  </tr>
-</table>
+<a href="https://github.com/chahyunwoo">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chahyunwoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=chahyunwoo&theme=tokyonight&hide_border=true" />
+</a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chahyunwoo/chahyunwoo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chahyunwoo/chahyunwoo/output/github-snake.svg" />
+  <img width="100%" alt="snake" src="https://raw.githubusercontent.com/chahyunwoo/chahyunwoo/output/github-snake-dark.svg" />
+</picture>
 
 🚀 **Full-Stack Engineer** | React 19 Specialist | TanStack Enthusiast
 
 **Interested**: Modern React, State Management, Backend Expansion
-
-| 💻 Frontend | 🔧 Backend | 🛠️ Tools |
-|-----------|-----------|---------|
-| React 19 | Node.js | TanStack |
-| TypeScript | NestJS | Zustand |
-| Tailwind | PostgreSQL | Cursor |
 
 </div>
 
@@ -103,7 +97,6 @@
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/SSH-000000?style=flat&logo=gnometerminal&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailscale-242424?style=flat&logo=tailscale&logoColor=white" />
 
 ### Tools & Collaboration
