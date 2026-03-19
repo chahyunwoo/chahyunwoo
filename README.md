@@ -13,7 +13,7 @@
   <img height="170" src="https://streak-stats.demolab.com?user=chahyunwoo&theme=tokyonight&hide_border=true" />
 </a>
 
-[![trophy](https://github-trophies.vercel.app/?username=chahyunwoo&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/lucthienphong1120/github-trophies)
+[![trophy](https://github-trophies.vercel.app/?username=chahyunwoo&theme=tokyonight&no-frame=true&no-bg=true&column=6&rank=-?)](https://github.com/lucthienphong1120/github-trophies)
 
 🚀 **Full-Stack Engineer** | React 19 Specialist | TanStack Enthusiast
 
