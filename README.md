@@ -6,12 +6,12 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chahyunwoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /></td>
-    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chahyunwoo&layout=compact&theme=tokyonight&hide_border=true" /></td>
+    <td width="50%"><img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chahyunwoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /></td>
+    <td width="50%"><img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chahyunwoo&layout=compact&theme=tokyonight&hide_border=true" /></td>
   </tr>
   <tr>
-    <td><img src="https://streak-stats.demolab.com?user=chahyunwoo&theme=tokyonight&hide_border=true" /></td>
-    <td><img src="https://raw.githubusercontent.com/chahyunwoo/chahyunwoo/output/github-snake-dark.svg" /></td>
+    <td width="50%"><img width="100%" src="https://streak-stats.demolab.com?user=chahyunwoo&theme=tokyonight&hide_border=true" /></td>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/chahyunwoo/chahyunwoo/output/github-snake-dark.svg" /></td>
   </tr>
 </table>
 
@@ -60,6 +60,8 @@
 
 <img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
 
