@@ -11,7 +11,7 @@
 
 <a href="https://github.com/chahyunwoo">
   <img height="180" src="https://streak-stats.demolab.com?user=chahyunwoo&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-trophies.vercel.app/?username=chahyunwoo&theme=tokyonight&no-frame=true&column=4&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA" />
+  <img height="180" src="https://github-trophies.vercel.app/?username=chahyunwoo&theme=tokyonight&no-frame=true&column=4&no-bg=true&rank=-C,-B,-?" />
 </a>
 
 🚀 **Full-Stack Engineer** | React 19 Specialist | TanStack Enthusiast
