@@ -4,11 +4,10 @@
 
 # Welcome To My GitHub!
 
-<a href="https://github.com/chahyunwoo">
-  <img height="200" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chahyunwoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</a>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chahyunwoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
 <a href="https://github.com/chahyunwoo/github-tier">
-  <img height="200" align="center" src="https://github-tier.vercel.app/api/tier?user=chahyunwoo&theme=tokyonight" />
+  <img width="49%" src="https://github-tier.vercel.app/api/tier?user=chahyunwoo&theme=tokyonight" />
 </a>
 
 <picture>
