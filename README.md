@@ -6,7 +6,7 @@
 <br/>
 
 <a href="https://github.com/chahyunwoo/github-tier">
-  <img src="https://github-tier.vercel.app/api/tier?user=chahyunwoo&theme=tokyonight&v=3" width="450" />
+  <img src="https://github-tier.vercel.app/api/tier?user=chahyunwoo&theme=tokyonight&v=3v=5" width="450" />
 </a>
 
 <br/><br/>
