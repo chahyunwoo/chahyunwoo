@@ -1,0 +1,166 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="450" height="260" viewBox="0 0 450 260" fill="none">
+  <defs>
+    <linearGradient id="tierGlow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#26A69A" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#4DB6AC" stop-opacity="0.03"/>
+    </linearGradient>
+    <linearGradient id="emblemGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#26A69A"/>
+      <stop offset="100%" stop-color="#4DB6AC"/>
+    </linearGradient>
+    <linearGradient id="barGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#26A69A"/>
+      <stop offset="100%" stop-color="#4DB6AC"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="avatarClip"><circle cx="24" cy="24" r="22"/></clipPath>
+    <pattern id="bgPattern" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="10" cy="10" r="0.5" fill="#26A69A" fill-opacity="0.03"/>
+    </pattern>
+  </defs>
+
+  <style>
+    * { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; }
+  </style>
+
+  <!-- Background -->
+  <rect width="450" height="260" rx="4.5" fill="#1A1B27"/>
+  <rect width="450" height="260" rx="4.5" fill="url(#tierGlow)"/>
+  <rect width="450" height="260" rx="4.5" fill="url(#bgPattern)"/>
+  <rect width="450" height="260" rx="4.5" fill="none" stroke="#414868" stroke-width="1" stroke-opacity="0.5"/>
+
+  <!-- Top tier accent line -->
+  <rect x="0" y="0" width="450" height="2" rx="4.5" fill="#26A69A" fill-opacity="0.6"/>
+
+  
+
+  <!-- Avatar -->
+  <g transform="translate(18, 18)">
+    <image href="data:image/png;base64,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" x="2" y="2" width="44" height="44" clip-path="url(#avatarClip)" preserveAspectRatio="xMidYMid slice"/>
+    <circle cx="24" cy="24" r="22" fill="none" stroke="#26A69A" stroke-width="2" stroke-opacity="0.6"/>
+  </g>
+
+  <!-- User Info -->
+  <g>
+    <text x="80" y="36" font-size="15" font-weight="700" fill="#70A5FD">Cha Hyun Woo</text>
+    <text x="80" y="52" font-size="11" fill="#565F89">@chahyunwoo</text>
+    <text x="80" y="68" font-size="10" font-weight="600" fill="#26A69A">Top 24%</text>
+    <text x="138" y="68" font-size="9" fill="#565F89" fill-opacity="0.6">+1 to Platinum II</text>
+  </g>
+
+  <!-- Tier Emblem -->
+  <g transform="translate(368, 14)">
+    
+    <defs>
+      <linearGradient id="hexGrad_Platinum" x1="0.2" y1="0" x2="0.8" y2="1">
+        <stop offset="0%" stop-color="#26A69A"/>
+        <stop offset="100%" stop-color="#4DB6AC"/>
+      </linearGradient>
+    </defs>
+
+    <!-- Outer glow ring -->
+    <polygon points="32,-2 66,17 66,55 32,74 -2,55 -2,17"
+      fill="none" stroke="#26A69A" stroke-width="0.5" stroke-opacity="0.15"/>
+
+    <!-- Outer hex -->
+    <polygon points="32,0 64,18 64,54 32,72 0,54 0,18"
+      fill="url(#hexGrad_Platinum)" fill-opacity="0.12"
+      stroke="url(#hexGrad_Platinum)" stroke-width="1.5"/>
+
+    <!-- Inner hex -->
+    <polygon points="32,6 58,20 58,52 32,66 6,52 6,20"
+      fill="url(#hexGrad_Platinum)" fill-opacity="0.06"
+      stroke="url(#hexGrad_Platinum)" stroke-width="0.5" stroke-opacity="0.3"/>
+
+    
+    
+      <path d="M30,36 L32,34 L34,36 L32,38 Z" fill="#26A69A" fill-opacity="0.12"/>
+    
+
+    <!-- Tier name -->
+    <text x="32" y="29" text-anchor="middle" dominant-baseline="central"
+      font-size="7.5" font-weight="800" letter-spacing="0.5" font-family="Segoe UI, Ubuntu, sans-serif"
+      fill="#26A69A">PLATINUM</text>
+
+    <!-- Division -->
+    <text x="32" y="45" text-anchor="middle" dominant-baseline="central"
+      font-size="13" font-weight="800" font-family="Segoe UI, Ubuntu, sans-serif"
+      fill="#26A69A">III</text>
+    
+  </g>
+
+  <!-- Tier Stars -->
+  <g transform="translate(368, 92)">
+    <path d="M18.5,0 L19.3,2 L21.5,2.2 L19.7,3.6 L20.3,6 L18.5,4.6 L16.7,6 L17.3,3.6 L15.5,2.2 L17.7,2 Z"
+    fill="#26A69A" fill-opacity="0.5"/><path d="M27.5,0 L28.3,2 L30.5,2.2 L28.7,3.6 L29.3,6 L27.5,4.6 L25.7,6 L26.3,3.6 L24.5,2.2 L26.7,2 Z"
+    fill="#26A69A" fill-opacity="0.5"/><path d="M36.5,0 L37.3,2 L39.5,2.2 L37.7,3.6 L38.3,6 L36.5,4.6 L34.7,6 L35.3,3.6 L33.5,2.2 L35.7,2 Z"
+    fill="#26A69A" fill-opacity="0.5"/><path d="M45.5,0 L46.3,2 L48.5,2.2 L46.7,3.6 L47.3,6 L45.5,4.6 L43.7,6 L44.3,3.6 L42.5,2.2 L44.7,2 Z"
+    fill="#26A69A" fill-opacity="0.5"/>
+  </g>
+
+  <!-- Stat Bars -->
+  <g transform="translate(18, 108)">
+    
+      <g transform="translate(0, 0)">
+        <svg x="0" y="1" width="14" height="14" viewBox="0 0 16 16" fill="#565F89">
+          <path d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"/>
+        </svg>
+        <text x="20" y="8" dominant-baseline="central" font-size="11" fill="#565F89">Commits</text>
+        <rect x="88" y="4" width="246" height="8" rx="4" fill="#24283B"/>
+        <rect x="88" y="4" width="197" height="8" rx="4" fill="url(#barGrad)" opacity="0.85"/>
+        <text x="340" y="8" dominant-baseline="central" font-size="10" fill="#565F89">988</text>
+        <text x="414" y="8" dominant-baseline="central" text-anchor="end" font-size="10" font-weight="700" fill="#A9B1D6">80</text>
+      </g>
+    
+      <g transform="translate(0, 26)">
+        <svg x="0" y="1" width="14" height="14" viewBox="0 0 16 16" fill="#565F89">
+          <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.75.75 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"/>
+        </svg>
+        <text x="20" y="8" dominant-baseline="central" font-size="11" fill="#565F89">Stars</text>
+        <rect x="88" y="4" width="246" height="8" rx="4" fill="#24283B"/>
+        <rect x="88" y="4" width="62" height="8" rx="4" fill="url(#barGrad)" opacity="0.85"/>
+        <text x="340" y="8" dominant-baseline="central" font-size="10" fill="#565F89">1</text>
+        <text x="414" y="8" dominant-baseline="central" text-anchor="end" font-size="10" font-weight="700" fill="#A9B1D6">25</text>
+      </g>
+    
+      <g transform="translate(0, 52)">
+        <svg x="0" y="1" width="14" height="14" viewBox="0 0 16 16" fill="#565F89">
+          <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354Z"/>
+        </svg>
+        <text x="20" y="8" dominant-baseline="central" font-size="11" fill="#565F89">PRs</text>
+        <rect x="88" y="4" width="246" height="8" rx="4" fill="#24283B"/>
+        <rect x="88" y="4" width="175" height="8" rx="4" fill="url(#barGrad)" opacity="0.85"/>
+        <text x="340" y="8" dominant-baseline="central" font-size="10" fill="#565F89">12</text>
+        <text x="414" y="8" dominant-baseline="central" text-anchor="end" font-size="10" font-weight="700" fill="#A9B1D6">71</text>
+      </g>
+    
+      <g transform="translate(0, 78)">
+        <svg x="0" y="1" width="14" height="14" viewBox="0 0 16 16" fill="#565F89">
+          <path d="M10.561 8.073a6 6 0 0 1 3.32 5.17.75.75 0 1 1-1.497.076 4.5 4.5 0 0 0-7.37-3.11.75.75 0 0 1-.994-1.124A6 6 0 0 1 8 7.5a6 6 0 0 1 2.561.573ZM8 5.5a2 2 0 1 0 0-4 2 2 0 0 0 0 4Zm0 1.5a3.5 3.5 0 1 1 0-7 3.5 3.5 0 0 1 0 7Z"/>
+        </svg>
+        <text x="20" y="8" dominant-baseline="central" font-size="11" fill="#565F89">Followers</text>
+        <rect x="88" y="4" width="246" height="8" rx="4" fill="#24283B"/>
+        <rect x="88" y="4" width="98" height="8" rx="4" fill="url(#barGrad)" opacity="0.85"/>
+        <text x="340" y="8" dominant-baseline="central" font-size="10" fill="#565F89">2</text>
+        <text x="414" y="8" dominant-baseline="central" text-anchor="end" font-size="10" font-weight="700" fill="#A9B1D6">40</text>
+      </g>
+    
+      <g transform="translate(0, 104)">
+        <svg x="0" y="1" width="14" height="14" viewBox="0 0 16 16" fill="#565F89">
+          <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"/><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"/>
+        </svg>
+        <text x="20" y="8" dominant-baseline="central" font-size="11" fill="#565F89">Issues</text>
+        <rect x="88" y="4" width="246" height="8" rx="4" fill="#24283B"/>
+        <rect x="88" y="4" width="0" height="8" rx="4" fill="url(#barGrad)" opacity="0.85"/>
+        <text x="340" y="8" dominant-baseline="central" font-size="10" fill="#565F89">0</text>
+        <text x="414" y="8" dominant-baseline="central" text-anchor="end" font-size="10" font-weight="700" fill="#A9B1D6">0</text>
+      </g>
+    
+  </g>
+
+  <!-- Watermark -->
+  <text x="432" y="252" text-anchor="end" font-size="8" fill="#565F89" fill-opacity="0.4">github-tier.vercel.app</text>
+</svg>
