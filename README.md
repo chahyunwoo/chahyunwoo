@@ -121,44 +121,44 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-715%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-724%20hrs%2036%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-123%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-132%20hrs%2013%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.28%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     706 commits         █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-🌆 낮　                     1414 commits        ██████████░░░░░░░░░░░░░░░   39.92 % 
-🌃 저녁                     899 commits         ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
-🌙 밤　                     523 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+🌞 아침                     706 commits         █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+🌆 낮　                     1448 commits        ██████████░░░░░░░░░░░░░░░   40.14 % 
+🌃 저녁                     906 commits         ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
+🌙 밤　                     547 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 23 mins (97.67%)
+⏱ AI Coding Time: 19 hrs 56 mins (97.66%)
 
-✍️ 13,070 lines written by AI, 423 lines written by hand (96.87% AI-written)
+✍️ 25,499 lines written by AI, 424 lines written by hand (98.36% AI-written)
 
-🔤 447,729,626 Input Tokens, 1,024,078 Output Tokens
+🔤 453,435,200 Input Tokens, 1,733,551 Output Tokens
 
-💵 $1054.13 Estimated AI Cost This Week
+💵 $1140.50 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 103 AI Prompts
+🧠 35 AI Sessions, 151 AI Prompts
 
-Sonnet                   12,711 lines        ████████████████████████░   95.70 % 
-Opus                     571 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Sonnet                   25,284 lines        ████████████████████████░   97.79 % 
+Opus                     571 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.87% of written lines came from AI
-📝 Concise Prompter — average 211 characters per prompt
+🤖 AI-Driven — 98.36% of written lines came from AI
+📄 Detailed Prompter — average 1,285 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 3.09% of changed lines were hand-edited
+🚀 High AI Trust — 1.62% of changed lines were hand-edited
 ```
 
 
