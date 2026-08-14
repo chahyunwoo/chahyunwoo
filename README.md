@@ -121,9 +121,9 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-749%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-752%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-157%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-160%20hrs%206%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.28%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -140,25 +140,25 @@
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 hrs 55 mins (98.96%)
+⏱ AI Coding Time: 27 hrs 49 mins (99.03%)
 
-✍️ 33,119 lines written by AI, 425 lines written by hand (98.73% AI-written)
+✍️ 23,684 lines written by AI, 3 lines written by hand (99.99% AI-written)
 
-🔤 272,760,860 Input Tokens, 2,971,861 Output Tokens
+🔤 19,205,900 Input Tokens, 2,211,167 Output Tokens
 
-💵 $923.31 Estimated AI Cost This Week
+💵 $399.24 Estimated AI Cost This Week
 
-🧠 47 AI Sessions, 227 AI Prompts
+🧠 32 AI Sessions, 169 AI Prompts
 
-Sonnet                   33,596 lines        █████████████████████████   98.33 % 
-Opus                     571 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Sonnet                   24,560 lines        █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.73% of written lines came from AI
-📚 Verbose Prompter — average 4,263 characters per prompt
+🤖 AI-Driven — 99.99% of written lines came from AI
+📚 Verbose Prompter — average 5,639 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.23% of changed lines were hand-edited
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 
