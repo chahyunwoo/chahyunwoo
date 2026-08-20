@@ -121,44 +121,11 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-752%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-753%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-160%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-160%20hrs%2032%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.28%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
-
-**저는 아침형 인간이에요. 🐤** 
-
-```text
-🌞 아침                     731 commits         █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
-🌆 낮　                     1485 commits        ██████████░░░░░░░░░░░░░░░   39.67 % 
-🌃 저녁                     942 commits         ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
-🌙 밤　                     585 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-```
-
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 5 hrs 10 mins (99.37%)
-
-✍️ 2,613 lines written by AI, 1 lines written by hand (99.96% AI-written)
-
-🔤 1,807,719 Input Tokens, 331,420 Output Tokens
-
-💵 $37.79 Estimated AI Cost This Week
-
-🧠 7 AI Sessions, 58 AI Prompts
-
-Sonnet                   2,975 lines         █████████████████████████   100.00 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📚 Verbose Prompter — average 4,070 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
-```
 
 
 <!--END_SECTION:waka-->
