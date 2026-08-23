@@ -121,45 +121,45 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-753%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-761%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-161%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-172%20hrs%2011%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.36%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-1.49%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     769 commits         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-🌆 낮　                     1650 commits        ██████████░░░░░░░░░░░░░░░   39.56 % 
-🌃 저녁                     1142 commits        ███████░░░░░░░░░░░░░░░░░░   27.38 % 
-🌙 밤　                     610 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+🌞 아침                     846 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+🌆 낮　                     1912 commits        ██████████░░░░░░░░░░░░░░░   39.80 % 
+🌃 저녁                     1396 commits        ███████░░░░░░░░░░░░░░░░░░   29.06 % 
+🌙 밤　                     650 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 5 mins (95.12%)
+⏱ AI Coding Time: 27 hrs 51 mins (97.59%)
 
-✍️ 6,049 lines written by AI, 9 lines written by hand (99.85% AI-written)
+✍️ 15,194 lines written by AI, 10 lines written by hand (99.93% AI-written)
 
-🔤 3,383,877 Input Tokens, 906,342 Output Tokens
+🔤 6,644,157 Input Tokens, 1,890,959 Output Tokens
 
-💵 $174.34 Estimated AI Cost This Week
+💵 $556.72 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 110 AI Prompts
+🧠 19 AI Sessions, 202 AI Prompts
 
-Opus                     5,795 lines         ███████████████████████░░   93.86 % 
-Fable                    248 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-Sonnet                   131 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Opus                     13,590 lines        █████████████████████░░░░   85.34 % 
+Fable                    2,203 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Sonnet                   131 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.85% of written lines came from AI
-📚 Verbose Prompter — average 1,833 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.19% of changed lines were hand-edited
+🤖 AI-Driven — 99.93% of written lines came from AI
+📄 Detailed Prompter — average 1,387 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 0.08% of changed lines were hand-edited
 ```
 
 
